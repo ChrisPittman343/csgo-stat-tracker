@@ -1,0 +1,3193 @@
+[
+  {
+    "overall": {
+      "wr": 65,
+      "adr": 64,
+      "hs": 53,
+      "kpd": 0.78,
+      "rating": 0.81,
+      "1v1": 60,
+      "1v2": 22,
+      "1v3": 0,
+      "1v4": 0,
+      "1v5": 0,
+      "1vX": 9,
+      "delta": {
+        "wr": 2,
+        "adr": 0,
+        "hs": 0,
+        "kpd": 0,
+        "rating": 0,
+        "1v1": 0,
+        "1v2": 0,
+        "1v3": 0,
+        "1v4": 0,
+        "1v5": 0,
+        "1vX": 0
+      }
+    },
+    "totals": {
+      "overall": {
+        "ct_rounds": 286,
+        "t_rounds": 271,
+        "adr": 64,
+        "games": 20,
+        "wins": 13,
+        "losses": 7,
+        "draws": 0,
+        "rounds": 557,
+        "HS": 161,
+        "K": 304,
+        "D": 392,
+        "A": 75,
+        "dmg": 34941,
+        "rating": 16.130000000000003,
+        "FK": 55,
+        "FD": 42,
+        "FK_T_SPR": 27,
+        "FD_T_SPR": 23,
+        "FK_CT_SPR": 28,
+        "FD_CT_SPR": 19,
+        "FK_T": 42,
+        "FD_T": 45,
+        "FD_T_NOKILL": 15,
+        "FK_CT": 48,
+        "FD_CT": 43,
+        "FD_CT_NOKILL": 18,
+        "1v1": 3,
+        "1v1_lost": 2,
+        "1v2": 2,
+        "1v2_lost": 7,
+        "1v3": 0,
+        "1v3_lost": 21,
+        "1v4": 0,
+        "1v4_lost": 13,
+        "1v5": 0,
+        "1v5_lost": 10,
+        "rank": 0,
+        "last": 0,
+        "delta": []
+      }
+    },
+    "rank": -1,
+    "comp_wins": -1,
+    "last": "2022-01-28 03:05:43",
+    "weapons": {
+      "overall": {
+        "flashbang": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 426,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "smokegrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 276,
+          "hits": 3,
+          "dmg": 3,
+          "overkill": 0,
+          "hitgroups": [3]
+        },
+        "knife": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 1472,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "glock": {
+          "kills": 14,
+          "headshot": 13,
+          "shots": 326,
+          "hits": 63,
+          "dmg": 1747,
+          "overkill": 497,
+          "hitgroups": { "1": 19, "2": 34, "3": 3, "4": 2, "5": 5 }
+        },
+        "molotov": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 95,
+          "hits": 2,
+          "dmg": 2,
+          "overkill": 0,
+          "hitgroups": [2]
+        },
+        "hegrenade": {
+          "kills": 1,
+          "headshot": 0,
+          "shots": 112,
+          "hits": 59,
+          "dmg": 1221,
+          "overkill": 9,
+          "hitgroups": [59]
+        },
+        "mac10": {
+          "kills": 17,
+          "headshot": 8,
+          "shots": 529,
+          "hits": 90,
+          "dmg": 1858,
+          "overkill": 300,
+          "hitgroups": {
+            "1": 16,
+            "2": 45,
+            "3": 12,
+            "4": 2,
+            "5": 9,
+            "6": 2,
+            "7": 4
+          }
+        },
+        "ak47": {
+          "kills": 97,
+          "headshot": 53,
+          "shots": 2294,
+          "hits": 301,
+          "dmg": 10004,
+          "overkill": 3193,
+          "hitgroups": {
+            "1": 55,
+            "2": 157,
+            "3": 33,
+            "4": 8,
+            "5": 33,
+            "6": 8,
+            "7": 7
+          }
+        },
+        "inferno": {
+          "kills": 4,
+          "headshot": 0,
+          "shots": 0,
+          "hits": 271,
+          "dmg": 1342,
+          "overkill": 15,
+          "hitgroups": [271]
+        },
+        "tec9": {
+          "kills": 3,
+          "headshot": 1,
+          "shots": 46,
+          "hits": 11,
+          "dmg": 375,
+          "overkill": 79,
+          "hitgroups": { "1": 2, "2": 3, "3": 3, "5": 2, "8": 1 }
+        },
+        "deagle": {
+          "kills": 4,
+          "headshot": 4,
+          "shots": 28,
+          "hits": 9,
+          "dmg": 434,
+          "overkill": 317,
+          "hitgroups": { "1": 4, "2": 4, "3": 1 }
+        },
+        "incgrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 163,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "m4a1_silencer": {
+          "kills": 64,
+          "headshot": 24,
+          "shots": 1349,
+          "hits": 233,
+          "dmg": 6968,
+          "overkill": 1748,
+          "hitgroups": {
+            "1": 35,
+            "2": 110,
+            "3": 37,
+            "4": 8,
+            "5": 26,
+            "6": 8,
+            "7": 9
+          }
+        },
+        "usp_silencer": {
+          "kills": 26,
+          "headshot": 23,
+          "shots": 452,
+          "hits": 111,
+          "dmg": 2986,
+          "overkill": 1044,
+          "hitgroups": {
+            "1": 26,
+            "2": 57,
+            "3": 12,
+            "4": 1,
+            "5": 10,
+            "6": 1,
+            "7": 4
+          }
+        },
+        "famas": {
+          "kills": 12,
+          "headshot": 5,
+          "shots": 229,
+          "hits": 46,
+          "dmg": 1397,
+          "overkill": 130,
+          "hitgroups": { "1": 10, "2": 27, "3": 6, "5": 3 }
+        },
+        "m4a1": {
+          "kills": 8,
+          "headshot": 1,
+          "shots": 250,
+          "hits": 29,
+          "dmg": 814,
+          "overkill": 112,
+          "hitgroups": { "1": 4, "2": 14, "3": 6, "4": 1, "5": 3, "7": 1 }
+        },
+        "galilar": {
+          "kills": 22,
+          "headshot": 9,
+          "shots": 475,
+          "hits": 79,
+          "dmg": 2410,
+          "overkill": 603,
+          "hitgroups": {
+            "1": 12,
+            "2": 47,
+            "3": 10,
+            "4": 2,
+            "5": 4,
+            "7": 3,
+            "8": 1
+          }
+        },
+        "fiveseven": {
+          "kills": 2,
+          "headshot": 1,
+          "shots": 71,
+          "hits": 10,
+          "dmg": 235,
+          "overkill": 76,
+          "hitgroups": { "1": 1, "2": 5, "3": 1, "4": 1, "7": 2 }
+        },
+        "p250": {
+          "kills": 3,
+          "headshot": 2,
+          "shots": 73,
+          "hits": 11,
+          "dmg": 361,
+          "overkill": 80,
+          "hitgroups": { "1": 3, "2": 4, "3": 2, "5": 1, "7": 1 }
+        },
+        "mp9": {
+          "kills": 25,
+          "headshot": 15,
+          "shots": 594,
+          "hits": 137,
+          "dmg": 2604,
+          "overkill": 630,
+          "hitgroups": { "1": 24, "2": 77, "3": 11, "4": 5, "5": 11, "7": 9 }
+        },
+        "decoy": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 2,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "mag7": {
+          "kills": 1,
+          "headshot": 1,
+          "shots": 1,
+          "hits": 2,
+          "dmg": 80,
+          "overkill": 25,
+          "hitgroups": { "1": 2 }
+        },
+        "nova": {
+          "kills": 1,
+          "headshot": 1,
+          "shots": 1,
+          "hits": 4,
+          "dmg": 100,
+          "overkill": 4,
+          "hitgroups": { "1": 1, "2": 3 }
+        }
+      }
+    },
+    "maps": {
+      "overall": {
+        "de_inferno": {
+          "played": 7,
+          "won": 5,
+          "rounds_for": 116,
+          "rounds_against": 101,
+          "ct_rounds_for": 54,
+          "ct_rounds_against": 52,
+          "t_rounds_for": 62,
+          "t_rounds_against": 49
+        },
+        "de_dust2": {
+          "played": 6,
+          "won": 4,
+          "rounds_for": 80,
+          "rounds_against": 76,
+          "ct_rounds_for": 41,
+          "ct_rounds_against": 34,
+          "t_rounds_for": 39,
+          "t_rounds_against": 42
+        },
+        "de_vertigo": {
+          "played": 4,
+          "won": 3,
+          "rounds_for": 59,
+          "rounds_against": 52,
+          "ct_rounds_for": 36,
+          "ct_rounds_against": 24,
+          "t_rounds_for": 23,
+          "t_rounds_against": 28
+        },
+        "de_ancient": {
+          "played": 2,
+          "won": 1,
+          "rounds_for": 24,
+          "rounds_against": 23,
+          "ct_rounds_for": 17,
+          "ct_rounds_against": 13,
+          "t_rounds_for": 7,
+          "t_rounds_against": 10
+        },
+        "de_overpass": {
+          "played": 1,
+          "won": 0,
+          "rounds_for": 10,
+          "rounds_against": 16,
+          "ct_rounds_for": 5,
+          "ct_rounds_against": 10,
+          "t_rounds_for": 5,
+          "t_rounds_against": 6
+        }
+      }
+    },
+    "past10": [
+      {
+        "result": "lose",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "4:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 59,
+        "hs": 67,
+        "rating": 0.7,
+        "kd": -8,
+        "kpd": 0.53
+      },
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "19:15",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 46,
+        "hs": 62,
+        "rating": 0.65,
+        "kd": -11,
+        "kpd": 0.54
+      },
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "16:11",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 71,
+        "hs": 38,
+        "rating": 0.83,
+        "kd": -2,
+        "kpd": 0.89
+      },
+      {
+        "result": "lose",
+        "map": "de_ancient",
+        "map_crc": 3270337775,
+        "score": "8:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 53,
+        "hs": 60,
+        "rating": 0.53,
+        "kd": -10,
+        "kpd": 0.5
+      },
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "16:7",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 110,
+        "hs": 38,
+        "rating": 1.57,
+        "kd": 12,
+        "kpd": 2
+      },
+      {
+        "result": "lose",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "11:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 45,
+        "hs": 70,
+        "rating": 0.56,
+        "kd": -11,
+        "kpd": 0.48
+      },
+      {
+        "result": "lose",
+        "map": "de_overpass",
+        "map_crc": 2863184063,
+        "score": "10:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 62,
+        "hs": 58,
+        "rating": 0.61,
+        "kd": -9,
+        "kpd": 0.57
+      },
+      {
+        "result": "win",
+        "map": "de_ancient",
+        "map_crc": 3270337775,
+        "score": "16:7",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 69,
+        "hs": 77,
+        "rating": 0.81,
+        "kd": -2,
+        "kpd": 0.87
+      },
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "16:12",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 70,
+        "hs": 70,
+        "rating": 1.04,
+        "kd": 3,
+        "kpd": 1.18
+      },
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "19:15",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 48,
+        "hs": 44,
+        "rating": 0.67,
+        "kd": -7,
+        "kpd": 0.7
+      }
+    ],
+    "best": {
+      "rank": 0,
+      "kpd": 2,
+      "rating": 1.57,
+      "adr": 110,
+      "hs": 77,
+      "clutches_won": 5
+    },
+    "matches": [
+      54135754, 54318581, 54318580, 54728993, 54815899, 54824633, 54999966,
+      55094634, 55094635, 55180797, 55180801, 55188454, 55388389, 55442535,
+      55451823, 55451825, 55479023, 55564199, 56415985, 56423612
+    ],
+    "userData": {
+      "name": "Chris",
+      "steamID": "76561198098251756",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/83/83e183313d35fe199a18df5d426ab140e32fba9c_full.jpg"
+    }
+  },
+  {
+    "overall": {
+      "wr": 57,
+      "adr": 79,
+      "hs": 28,
+      "kpd": 0.98,
+      "rating": 0.99,
+      "1v1": 75,
+      "1v2": 11,
+      "1v3": 0,
+      "1v4": 0,
+      "1v5": 0,
+      "1vX": 14,
+      "delta": {
+        "wr": 3,
+        "adr": -1,
+        "hs": 0,
+        "kpd": -0.01,
+        "rating": -0.02,
+        "1v1": -25,
+        "1v2": -2,
+        "1v3": 0,
+        "1v4": 0,
+        "1v5": 0,
+        "1vX": 1
+      }
+    },
+    "totals": {
+      "overall": {
+        "ct_rounds": 204,
+        "t_rounds": 205,
+        "adr": 79,
+        "games": 14,
+        "wins": 8,
+        "losses": 6,
+        "draws": 0,
+        "rounds": 409,
+        "HS": 83,
+        "K": 295,
+        "D": 302,
+        "A": 46,
+        "dmg": 31984,
+        "rating": 13.919999999999998,
+        "FK": 76,
+        "FD": 60,
+        "FK_T_SPR": 36,
+        "FD_T_SPR": 31,
+        "FK_CT_SPR": 40,
+        "FD_CT_SPR": 29,
+        "FK_T": 49,
+        "FD_T": 73,
+        "FD_T_NOKILL": 23,
+        "FK_CT": 52,
+        "FD_CT": 55,
+        "FD_CT_NOKILL": 14,
+        "1v1": 3,
+        "1v1_lost": 1,
+        "1v2": 1,
+        "1v2_lost": 8,
+        "1v3": 0,
+        "1v3_lost": 8,
+        "1v4": 0,
+        "1v4_lost": 6,
+        "1v5": 0,
+        "1v5_lost": 1,
+        "rank": 0,
+        "last": 0,
+        "delta": []
+      }
+    },
+    "rank": -1,
+    "comp_wins": -1,
+    "last": "2022-01-28 03:05:43",
+    "weapons": {
+      "overall": {
+        "knife": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 2263,
+          "hits": 2,
+          "dmg": 54,
+          "overkill": 0,
+          "hitgroups": [2]
+        },
+        "glock": {
+          "kills": 9,
+          "headshot": 8,
+          "shots": 402,
+          "hits": 31,
+          "dmg": 1030,
+          "overkill": 271,
+          "hitgroups": { "1": 10, "2": 18, "3": 2, "6": 1 }
+        },
+        "usp_silencer": {
+          "kills": 15,
+          "headshot": 12,
+          "shots": 370,
+          "hits": 64,
+          "dmg": 1651,
+          "overkill": 489,
+          "hitgroups": {
+            "1": 12,
+            "2": 33,
+            "3": 7,
+            "4": 2,
+            "5": 6,
+            "6": 2,
+            "7": 2
+          }
+        },
+        "molotov": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 123,
+          "hits": 1,
+          "dmg": 1,
+          "overkill": 0,
+          "hitgroups": [1]
+        },
+        "inferno": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 0,
+          "hits": 48,
+          "dmg": 201,
+          "overkill": 0,
+          "hitgroups": [48]
+        },
+        "mac10": {
+          "kills": 21,
+          "headshot": 2,
+          "shots": 548,
+          "hits": 119,
+          "dmg": 2294,
+          "overkill": 253,
+          "hitgroups": {
+            "1": 7,
+            "2": 63,
+            "3": 26,
+            "4": 6,
+            "5": 11,
+            "6": 2,
+            "7": 3,
+            "8": 1
+          }
+        },
+        "flashbang": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 202,
+          "hits": 1,
+          "dmg": 1,
+          "overkill": 0,
+          "hitgroups": [1]
+        },
+        "ak47": {
+          "kills": 88,
+          "headshot": 29,
+          "shots": 1790,
+          "hits": 319,
+          "dmg": 9770,
+          "overkill": 2359,
+          "hitgroups": {
+            "1": 33,
+            "2": 144,
+            "3": 82,
+            "4": 16,
+            "5": 17,
+            "6": 13,
+            "7": 14
+          }
+        },
+        "smokegrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 174,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "deagle": {
+          "kills": 10,
+          "headshot": 6,
+          "shots": 102,
+          "hits": 27,
+          "dmg": 1327,
+          "overkill": 506,
+          "hitgroups": { "1": 6, "2": 17, "3": 2, "5": 1, "7": 1 }
+        },
+        "awp": {
+          "kills": 91,
+          "headshot": 7,
+          "shots": 274,
+          "hits": 103,
+          "dmg": 8536,
+          "overkill": 5212,
+          "hitgroups": {
+            "1": 7,
+            "2": 54,
+            "3": 28,
+            "4": 4,
+            "5": 5,
+            "6": 2,
+            "7": 3
+          }
+        },
+        "tec9": {
+          "kills": 4,
+          "headshot": 1,
+          "shots": 118,
+          "hits": 15,
+          "dmg": 438,
+          "overkill": 58,
+          "hitgroups": { "1": 2, "2": 7, "3": 4, "5": 1, "7": 1 }
+        },
+        "mag7": {
+          "kills": 18,
+          "headshot": 9,
+          "shots": 43,
+          "hits": 90,
+          "dmg": 1612,
+          "overkill": 393,
+          "hitgroups": { "1": 16, "2": 53, "3": 12, "4": 2, "5": 5, "6": 2 }
+        },
+        "hegrenade": {
+          "kills": 3,
+          "headshot": 0,
+          "shots": 76,
+          "hits": 73,
+          "dmg": 1333,
+          "overkill": 43,
+          "hitgroups": [73]
+        },
+        "incgrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 9,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "p250": {
+          "kills": 2,
+          "headshot": 0,
+          "shots": 46,
+          "hits": 12,
+          "dmg": 394,
+          "overkill": 14,
+          "hitgroups": { "1": 2, "2": 5, "3": 2, "5": 2, "8": 1 }
+        },
+        "galilar": {
+          "kills": 2,
+          "headshot": 1,
+          "shots": 62,
+          "hits": 11,
+          "dmg": 350,
+          "overkill": 34,
+          "hitgroups": { "1": 2, "2": 8, "3": 1 }
+        },
+        "m4a1": {
+          "kills": 10,
+          "headshot": 0,
+          "shots": 147,
+          "hits": 52,
+          "dmg": 990,
+          "overkill": 106,
+          "hitgroups": { "1": 1, "2": 33, "3": 8, "4": 3, "5": 4, "6": 3 }
+        },
+        "m4a1_silencer": {
+          "kills": 8,
+          "headshot": 4,
+          "shots": 176,
+          "hits": 16,
+          "dmg": 661,
+          "overkill": 252,
+          "hitgroups": { "1": 5, "2": 4, "3": 4, "4": 1, "5": 2 }
+        },
+        "sawedoff": {
+          "kills": 1,
+          "headshot": 0,
+          "shots": 7,
+          "hits": 3,
+          "dmg": 29,
+          "overkill": 23,
+          "hitgroups": { "2": 2, "3": 1 }
+        },
+        "ssg08": {
+          "kills": 2,
+          "headshot": 1,
+          "shots": 12,
+          "hits": 3,
+          "dmg": 158,
+          "overkill": 347,
+          "hitgroups": { "1": 1, "2": 1, "5": 1 }
+        },
+        "fiveseven": {
+          "kills": 4,
+          "headshot": 2,
+          "shots": 79,
+          "hits": 14,
+          "dmg": 377,
+          "overkill": 105,
+          "hitgroups": { "1": 2, "2": 4, "3": 3, "5": 3, "6": 2 }
+        },
+        "decoy": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 3,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "famas": {
+          "kills": 6,
+          "headshot": 1,
+          "shots": 99,
+          "hits": 31,
+          "dmg": 615,
+          "overkill": 128,
+          "hitgroups": { "1": 1, "2": 13, "3": 10, "5": 4, "6": 2, "7": 1 }
+        },
+        "mp7": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 10,
+          "hits": 2,
+          "dmg": 49,
+          "overkill": 0,
+          "hitgroups": { "2": 1, "5": 1 }
+        },
+        "scar20": {
+          "kills": 1,
+          "headshot": 0,
+          "shots": 39,
+          "hits": 2,
+          "dmg": 113,
+          "overkill": 13,
+          "hitgroups": { "2": 1, "4": 1 }
+        }
+      }
+    },
+    "maps": {
+      "overall": {
+        "de_inferno": {
+          "played": 8,
+          "won": 5,
+          "rounds_for": 130,
+          "rounds_against": 117,
+          "ct_rounds_for": 60,
+          "ct_rounds_against": 61,
+          "t_rounds_for": 70,
+          "t_rounds_against": 56
+        },
+        "de_vertigo": {
+          "played": 3,
+          "won": 1,
+          "rounds_for": 43,
+          "rounds_against": 49,
+          "ct_rounds_for": 26,
+          "ct_rounds_against": 22,
+          "t_rounds_for": 17,
+          "t_rounds_against": 27
+        },
+        "de_dust2": {
+          "played": 2,
+          "won": 1,
+          "rounds_for": 20,
+          "rounds_against": 27,
+          "ct_rounds_for": 8,
+          "ct_rounds_against": 12,
+          "t_rounds_for": 12,
+          "t_rounds_against": 15
+        },
+        "de_ancient": {
+          "played": 1,
+          "won": 1,
+          "rounds_for": 16,
+          "rounds_against": 7,
+          "ct_rounds_for": 11,
+          "ct_rounds_against": 4,
+          "t_rounds_for": 5,
+          "t_rounds_against": 3
+        }
+      }
+    },
+    "past10": [
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "16:12",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 67,
+        "hs": 16,
+        "rating": 0.86,
+        "kd": -1,
+        "kpd": 0.95
+      },
+      {
+        "result": "win",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "16:14",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 67,
+        "hs": 40,
+        "rating": 1.04,
+        "kd": 2,
+        "kpd": 1.11
+      },
+      {
+        "result": "lose",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "4:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 71,
+        "hs": 27,
+        "rating": 0.66,
+        "kd": -7,
+        "kpd": 0.61
+      },
+      {
+        "result": "lose",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "14:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 89,
+        "hs": 38,
+        "rating": 0.84,
+        "kd": -4,
+        "kpd": 0.84
+      },
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "16:11",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 98,
+        "hs": 37,
+        "rating": 1.36,
+        "kd": 8,
+        "kpd": 1.42
+      },
+      {
+        "result": "lose",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "11:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 91,
+        "hs": 28,
+        "rating": 1.18,
+        "kd": 5,
+        "kpd": 1.25
+      },
+      {
+        "result": "win",
+        "map": "de_ancient",
+        "map_crc": 3270337775,
+        "score": "16:7",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 74,
+        "hs": 25,
+        "rating": 1.21,
+        "kd": 5,
+        "kpd": 1.33
+      },
+      {
+        "result": "lose",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "16:19",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 48,
+        "hs": 20,
+        "rating": 0.61,
+        "kd": -14,
+        "kpd": 0.52
+      },
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "16:12",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 84,
+        "hs": 32,
+        "rating": 1.01,
+        "kd": -1,
+        "kpd": 0.95
+      },
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "19:15",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 70,
+        "hs": 24,
+        "rating": 0.83,
+        "kd": -5,
+        "kpd": 0.81
+      }
+    ],
+    "best": {
+      "rank": 0,
+      "kpd": 1.42,
+      "rating": 1.36,
+      "adr": 103,
+      "hs": 40,
+      "clutches_won": 4
+    },
+    "matches": [
+      54135754, 54318581, 54318580, 54815899, 54824633, 55180797, 55180801,
+      55379624, 55388389, 55451825, 55564199, 55647040, 56415985, 56423612
+    ],
+    "userData": {
+      "name": "Noah",
+      "steamID": "76561198165491524",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fc/fc19ee32a46c2d330cf2ee4b6447dfd5537baee7_full.jpg"
+    }
+  },
+  {
+    "overall": {
+      "wr": 59,
+      "adr": 85,
+      "hs": 45,
+      "kpd": 1.14,
+      "rating": 1.07,
+      "1v1": 38,
+      "1v2": 29,
+      "1v3": 8,
+      "1v4": 0,
+      "1v5": 0,
+      "1vX": 14,
+      "delta": {
+        "wr": 3,
+        "adr": 1,
+        "hs": -1,
+        "kpd": -0.01,
+        "rating": 0,
+        "1v1": 0,
+        "1v2": -2,
+        "1v3": 0,
+        "1v4": 0,
+        "1v5": 0,
+        "1vX": 0
+      }
+    },
+    "totals": {
+      "overall": {
+        "ct_rounds": 240,
+        "t_rounds": 254,
+        "adr": 85,
+        "games": 17,
+        "wins": 10,
+        "losses": 7,
+        "draws": 0,
+        "rounds": 494,
+        "HS": 168,
+        "K": 370,
+        "D": 324,
+        "A": 87,
+        "dmg": 42401,
+        "rating": 18.19,
+        "FK": 36,
+        "FD": 31,
+        "FK_T_SPR": 21,
+        "FD_T_SPR": 20,
+        "FK_CT_SPR": 15,
+        "FD_CT_SPR": 11,
+        "FK_T": 52,
+        "FD_T": 30,
+        "FD_T_NOKILL": 8,
+        "FK_CT": 36,
+        "FD_CT": 28,
+        "FD_CT_NOKILL": 13,
+        "1v1": 5,
+        "1v1_lost": 8,
+        "1v2": 5,
+        "1v2_lost": 12,
+        "1v3": 2,
+        "1v3_lost": 24,
+        "1v4": 0,
+        "1v4_lost": 23,
+        "1v5": 0,
+        "1v5_lost": 9,
+        "rank": 0,
+        "last": 0,
+        "delta": []
+      }
+    },
+    "rank": -1,
+    "comp_wins": -1,
+    "last": "2022-01-28 03:05:43",
+    "weapons": {
+      "overall": {
+        "smokegrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 234,
+          "hits": 3,
+          "dmg": 4,
+          "overkill": 0,
+          "hitgroups": [3]
+        },
+        "glock": {
+          "kills": 9,
+          "headshot": 5,
+          "shots": 321,
+          "hits": 38,
+          "dmg": 993,
+          "overkill": 126,
+          "hitgroups": { "1": 7, "2": 24, "3": 6, "5": 1 }
+        },
+        "usp_silencer": {
+          "kills": 21,
+          "headshot": 16,
+          "shots": 389,
+          "hits": 75,
+          "dmg": 2322,
+          "overkill": 656,
+          "hitgroups": { "1": 18, "2": 39, "3": 4, "4": 1, "5": 9, "7": 4 }
+        },
+        "mp7": {
+          "kills": 18,
+          "headshot": 5,
+          "shots": 412,
+          "hits": 76,
+          "dmg": 1704,
+          "overkill": 452,
+          "hitgroups": {
+            "1": 8,
+            "2": 33,
+            "3": 19,
+            "4": 1,
+            "5": 7,
+            "6": 4,
+            "7": 4
+          }
+        },
+        "hegrenade": {
+          "kills": 6,
+          "headshot": 0,
+          "shots": 164,
+          "hits": 93,
+          "dmg": 1785,
+          "overkill": 88,
+          "hitgroups": [93]
+        },
+        "flashbang": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 371,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "galilar": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 75,
+          "hits": 14,
+          "dmg": 447,
+          "overkill": 0,
+          "hitgroups": { "1": 1, "2": 9, "3": 3, "5": 1 }
+        },
+        "knife": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 1258,
+          "hits": 3,
+          "dmg": 63,
+          "overkill": 0,
+          "hitgroups": [3]
+        },
+        "ak47": {
+          "kills": 150,
+          "headshot": 82,
+          "shots": 3708,
+          "hits": 511,
+          "dmg": 16404,
+          "overkill": 4789,
+          "hitgroups": {
+            "1": 91,
+            "2": 240,
+            "3": 104,
+            "4": 16,
+            "5": 36,
+            "6": 17,
+            "7": 5,
+            "8": 2
+          }
+        },
+        "molotov": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 30,
+          "hits": 2,
+          "dmg": 2,
+          "overkill": 0,
+          "hitgroups": [2]
+        },
+        "p250": {
+          "kills": 20,
+          "headshot": 11,
+          "shots": 426,
+          "hits": 101,
+          "dmg": 2658,
+          "overkill": 562,
+          "hitgroups": {
+            "1": 14,
+            "2": 50,
+            "3": 22,
+            "4": 4,
+            "5": 8,
+            "6": 2,
+            "7": 1
+          }
+        },
+        "deagle": {
+          "kills": 14,
+          "headshot": 8,
+          "shots": 155,
+          "hits": 30,
+          "dmg": 1422,
+          "overkill": 491,
+          "hitgroups": { "1": 8, "2": 13, "3": 2, "5": 6, "6": 1 }
+        },
+        "incgrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 87,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "m4a1": {
+          "kills": 56,
+          "headshot": 20,
+          "shots": 1336,
+          "hits": 229,
+          "dmg": 5977,
+          "overkill": 1512,
+          "hitgroups": {
+            "1": 38,
+            "2": 120,
+            "3": 40,
+            "4": 5,
+            "5": 13,
+            "6": 7,
+            "7": 5,
+            "8": 1
+          }
+        },
+        "inferno": {
+          "kills": 3,
+          "headshot": 0,
+          "shots": 0,
+          "hits": 129,
+          "dmg": 502,
+          "overkill": 11,
+          "hitgroups": [129]
+        },
+        "fiveseven": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 14,
+          "hits": 1,
+          "dmg": 20,
+          "overkill": 0,
+          "hitgroups": { "2": 1 }
+        },
+        "mac10": {
+          "kills": 1,
+          "headshot": 0,
+          "shots": 24,
+          "hits": 7,
+          "dmg": 113,
+          "overkill": 6,
+          "hitgroups": { "1": 1, "2": 4, "3": 2 }
+        },
+        "mp9": {
+          "kills": 3,
+          "headshot": 1,
+          "shots": 145,
+          "hits": 17,
+          "dmg": 382,
+          "overkill": 33,
+          "hitgroups": { "1": 3, "2": 9, "3": 3, "6": 1, "8": 1 }
+        },
+        "m4a1_silencer": {
+          "kills": 5,
+          "headshot": 3,
+          "shots": 157,
+          "hits": 24,
+          "dmg": 749,
+          "overkill": 129,
+          "hitgroups": { "1": 3, "2": 15, "3": 2, "5": 4 }
+        },
+        "awp": {
+          "kills": 47,
+          "headshot": 7,
+          "shots": 155,
+          "hits": 58,
+          "dmg": 4246,
+          "overkill": 3978,
+          "hitgroups": {
+            "1": 7,
+            "2": 25,
+            "3": 13,
+            "4": 1,
+            "5": 7,
+            "6": 3,
+            "7": 2
+          }
+        },
+        "ssg08": {
+          "kills": 9,
+          "headshot": 6,
+          "shots": 95,
+          "hits": 28,
+          "dmg": 1848,
+          "overkill": 1257,
+          "hitgroups": { "1": 6, "2": 16, "3": 2, "5": 3, "6": 1 }
+        },
+        "famas": {
+          "kills": 6,
+          "headshot": 2,
+          "shots": 157,
+          "hits": 24,
+          "dmg": 501,
+          "overkill": 144,
+          "hitgroups": { "1": 2, "2": 10, "3": 9, "5": 1, "6": 1, "7": 1 }
+        },
+        "ump45": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 4,
+          "hits": 1,
+          "dmg": 12,
+          "overkill": 0,
+          "hitgroups": { "2": 1 }
+        },
+        "sg556": {
+          "kills": 2,
+          "headshot": 2,
+          "shots": 22,
+          "hits": 4,
+          "dmg": 159,
+          "overkill": 134,
+          "hitgroups": { "1": 2, "2": 2 }
+        },
+        "": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 0,
+          "hits": 1,
+          "dmg": 15,
+          "overkill": 0,
+          "hitgroups": { "2": 1 }
+        },
+        "bizon": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 5,
+          "hits": 4,
+          "dmg": 56,
+          "overkill": 0,
+          "hitgroups": { "2": 3, "8": 1 }
+        },
+        "tec9": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 5,
+          "hits": 1,
+          "dmg": 17,
+          "overkill": 0,
+          "hitgroups": { "2": 1 }
+        }
+      }
+    },
+    "maps": {
+      "overall": {
+        "de_inferno": {
+          "played": 9,
+          "won": 5,
+          "rounds_for": 140,
+          "rounds_against": 133,
+          "ct_rounds_for": 67,
+          "ct_rounds_against": 65,
+          "t_rounds_for": 73,
+          "t_rounds_against": 68
+        },
+        "de_dust2": {
+          "played": 5,
+          "won": 3,
+          "rounds_for": 64,
+          "rounds_against": 69,
+          "ct_rounds_for": 31,
+          "ct_rounds_against": 29,
+          "t_rounds_for": 33,
+          "t_rounds_against": 40
+        },
+        "de_vertigo": {
+          "played": 2,
+          "won": 1,
+          "rounds_for": 32,
+          "rounds_against": 33,
+          "ct_rounds_for": 18,
+          "ct_rounds_against": 15,
+          "t_rounds_for": 14,
+          "t_rounds_against": 18
+        },
+        "de_ancient": {
+          "played": 1,
+          "won": 1,
+          "rounds_for": 16,
+          "rounds_against": 7,
+          "ct_rounds_for": 11,
+          "ct_rounds_against": 4,
+          "t_rounds_for": 5,
+          "t_rounds_against": 3
+        }
+      }
+    },
+    "past10": [
+      {
+        "result": "win",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "16:14",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 95,
+        "hs": 44,
+        "rating": 1.15,
+        "kd": 6,
+        "kpd": 1.32
+      },
+      {
+        "result": "lose",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "4:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 77,
+        "hs": 62,
+        "rating": 0.81,
+        "kd": -4,
+        "kpd": 0.76
+      },
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "19:15",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 88,
+        "hs": 50,
+        "rating": 1.09,
+        "kd": 3,
+        "kpd": 1.13
+      },
+      {
+        "result": "lose",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "14:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 77,
+        "hs": 35,
+        "rating": 1.06,
+        "kd": 2,
+        "kpd": 1.1
+      },
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "16:11",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 74,
+        "hs": 31,
+        "rating": 0.91,
+        "kd": -1,
+        "kpd": 0.94
+      },
+      {
+        "result": "win",
+        "map": "de_ancient",
+        "map_crc": 3270337775,
+        "score": "16:7",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 87,
+        "hs": 62,
+        "rating": 0.84,
+        "kd": -1,
+        "kpd": 0.93
+      },
+      {
+        "result": "lose",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "16:19",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 94,
+        "hs": 41,
+        "rating": 1.08,
+        "kd": 5,
+        "kpd": 1.23
+      },
+      {
+        "result": "lose",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "10:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 93,
+        "hs": 67,
+        "rating": 1.09,
+        "kd": 1,
+        "kpd": 1.05
+      },
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "16:12",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 72,
+        "hs": 35,
+        "rating": 1.15,
+        "kd": 3,
+        "kpd": 1.18
+      },
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "19:15",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 96,
+        "hs": 38,
+        "rating": 1.12,
+        "kd": 2,
+        "kpd": 1.08
+      }
+    ],
+    "best": {
+      "rank": 0,
+      "kpd": 2.24,
+      "rating": 1.69,
+      "adr": 105,
+      "hs": 67,
+      "clutches_won": 12
+    },
+    "matches": [
+      54135754, 54318581, 54318580, 54815899, 54824633, 55094634, 55094635,
+      55180797, 55180801, 55188454, 55379624, 55388389, 55564199, 55647040,
+      55654070, 56415985, 56423612
+    ],
+    "userData": {
+      "name": "Alex",
+      "steamID": "76561198158571788",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2e/2e794df17519de1aa73a283ed7c2a0fab975a5c8_full.jpg"
+    }
+  },
+  {
+    "overall": {
+      "wr": 60,
+      "adr": 77,
+      "hs": 42,
+      "kpd": 1.06,
+      "rating": 1.05,
+      "1v1": 73,
+      "1v2": 32,
+      "1v3": 12,
+      "1v4": 7,
+      "1v5": 0,
+      "1vX": 23,
+      "delta": {
+        "wr": 2,
+        "adr": 0,
+        "hs": 1,
+        "kpd": 0.02,
+        "rating": 0.02,
+        "1v1": 0,
+        "1v2": -1,
+        "1v3": -1,
+        "1v4": 7,
+        "1v5": 0,
+        "1vX": -1
+      }
+    },
+    "totals": {
+      "overall": {
+        "ct_rounds": 282,
+        "t_rounds": 268,
+        "adr": 77,
+        "games": 20,
+        "wins": 12,
+        "losses": 8,
+        "draws": 0,
+        "rounds": 550,
+        "HS": 163,
+        "K": 391,
+        "D": 368,
+        "A": 79,
+        "dmg": 42866,
+        "rating": 20.950000000000003,
+        "FK": 49,
+        "FD": 39,
+        "FK_T_SPR": 18,
+        "FD_T_SPR": 14,
+        "FK_CT_SPR": 31,
+        "FD_CT_SPR": 25,
+        "FK_T": 50,
+        "FD_T": 34,
+        "FD_T_NOKILL": 15,
+        "FK_CT": 52,
+        "FD_CT": 56,
+        "FD_CT_NOKILL": 16,
+        "1v1": 8,
+        "1v1_lost": 3,
+        "1v2": 7,
+        "1v2_lost": 15,
+        "1v3": 2,
+        "1v3_lost": 15,
+        "1v4": 1,
+        "1v4_lost": 14,
+        "1v5": 0,
+        "1v5_lost": 12,
+        "rank": 0,
+        "last": 0,
+        "delta": []
+      }
+    },
+    "rank": -1,
+    "comp_wins": -1,
+    "last": "2022-01-28 03:05:43",
+    "weapons": {
+      "overall": {
+        "usp_silencer": {
+          "kills": 12,
+          "headshot": 10,
+          "shots": 260,
+          "hits": 48,
+          "dmg": 1326,
+          "overkill": 437,
+          "hitgroups": { "1": 11, "2": 27, "3": 1, "4": 2, "5": 5, "7": 2 }
+        },
+        "knife": {
+          "kills": 1,
+          "headshot": 0,
+          "shots": 1216,
+          "hits": 1,
+          "dmg": 4,
+          "overkill": 17,
+          "hitgroups": [1]
+        },
+        "hegrenade": {
+          "kills": 5,
+          "headshot": 0,
+          "shots": 245,
+          "hits": 172,
+          "dmg": 3248,
+          "overkill": 64,
+          "hitgroups": [172]
+        },
+        "smokegrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 280,
+          "hits": 3,
+          "dmg": 3,
+          "overkill": 0,
+          "hitgroups": [3]
+        },
+        "m4a1_silencer": {
+          "kills": 87,
+          "headshot": 25,
+          "shots": 1666,
+          "hits": 307,
+          "dmg": 8863,
+          "overkill": 1838,
+          "hitgroups": {
+            "1": 39,
+            "2": 172,
+            "3": 50,
+            "4": 3,
+            "5": 31,
+            "6": 2,
+            "7": 9,
+            "8": 1
+          }
+        },
+        "flashbang": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 345,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "incgrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 136,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "ak47": {
+          "kills": 171,
+          "headshot": 82,
+          "shots": 3823,
+          "hits": 524,
+          "dmg": 16072,
+          "overkill": 5504,
+          "hitgroups": {
+            "1": 85,
+            "2": 252,
+            "3": 96,
+            "4": 23,
+            "5": 41,
+            "6": 16,
+            "7": 9,
+            "8": 2
+          }
+        },
+        "m4a1": {
+          "kills": 12,
+          "headshot": 6,
+          "shots": 177,
+          "hits": 39,
+          "dmg": 1073,
+          "overkill": 389,
+          "hitgroups": { "1": 6, "2": 18, "3": 9, "5": 4, "7": 2 }
+        },
+        "inferno": {
+          "kills": 2,
+          "headshot": 0,
+          "shots": 0,
+          "hits": 204,
+          "dmg": 1189,
+          "overkill": 9,
+          "hitgroups": [204]
+        },
+        "p250": {
+          "kills": 18,
+          "headshot": 12,
+          "shots": 459,
+          "hits": 80,
+          "dmg": 2453,
+          "overkill": 810,
+          "hitgroups": { "1": 18, "2": 41, "3": 8, "5": 6, "6": 2, "7": 5 }
+        },
+        "galilar": {
+          "kills": 17,
+          "headshot": 4,
+          "shots": 518,
+          "hits": 69,
+          "dmg": 1583,
+          "overkill": 480,
+          "hitgroups": {
+            "1": 5,
+            "2": 38,
+            "3": 13,
+            "4": 2,
+            "5": 6,
+            "6": 2,
+            "7": 3
+          }
+        },
+        "tec9": {
+          "kills": 3,
+          "headshot": 2,
+          "shots": 218,
+          "hits": 20,
+          "dmg": 542,
+          "overkill": 100,
+          "hitgroups": { "1": 3, "2": 9, "3": 3, "5": 1, "6": 2, "7": 2 }
+        },
+        "molotov": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 83,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "glock": {
+          "kills": 7,
+          "headshot": 4,
+          "shots": 159,
+          "hits": 31,
+          "dmg": 922,
+          "overkill": 159,
+          "hitgroups": { "1": 9, "2": 16, "3": 3, "5": 3 }
+        },
+        "deagle": {
+          "kills": 10,
+          "headshot": 5,
+          "shots": 101,
+          "hits": 21,
+          "dmg": 824,
+          "overkill": 549,
+          "hitgroups": { "1": 5, "2": 11, "3": 2, "5": 1, "7": 2 }
+        },
+        "mp9": {
+          "kills": 7,
+          "headshot": 4,
+          "shots": 314,
+          "hits": 44,
+          "dmg": 853,
+          "overkill": 119,
+          "hitgroups": { "1": 5, "2": 24, "3": 9, "4": 2, "5": 4 }
+        },
+        "mac10": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 49,
+          "hits": 3,
+          "dmg": 92,
+          "overkill": 0,
+          "hitgroups": { "1": 1, "2": 1, "6": 1 }
+        },
+        "elite": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 15,
+          "hits": 5,
+          "dmg": 84,
+          "overkill": 0,
+          "hitgroups": { "2": 5 }
+        },
+        "cz75a": {
+          "kills": 10,
+          "headshot": 5,
+          "shots": 161,
+          "hits": 41,
+          "dmg": 1157,
+          "overkill": 233,
+          "hitgroups": {
+            "1": 9,
+            "2": 14,
+            "3": 7,
+            "4": 1,
+            "5": 2,
+            "6": 2,
+            "7": 6
+          }
+        },
+        "famas": {
+          "kills": 12,
+          "headshot": 3,
+          "shots": 256,
+          "hits": 51,
+          "dmg": 1177,
+          "overkill": 221,
+          "hitgroups": { "1": 5, "2": 25, "3": 12, "4": 1, "5": 7, "6": 1 }
+        },
+        "awp": {
+          "kills": 15,
+          "headshot": 1,
+          "shots": 50,
+          "hits": 16,
+          "dmg": 1142,
+          "overkill": 984,
+          "hitgroups": { "1": 1, "2": 9, "3": 5, "7": 1 }
+        },
+        "mp7": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 10,
+          "hits": 2,
+          "dmg": 69,
+          "overkill": 0,
+          "hitgroups": { "1": 1, "2": 1 }
+        },
+        "p90": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 25,
+          "hits": 4,
+          "dmg": 67,
+          "overkill": 0,
+          "hitgroups": { "2": 1, "3": 1, "5": 2 }
+        },
+        "fiveseven": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 7,
+          "hits": 2,
+          "dmg": 48,
+          "overkill": 0,
+          "hitgroups": { "2": 1, "4": 1 }
+        },
+        "bizon": {
+          "kills": 2,
+          "headshot": 0,
+          "shots": 96,
+          "hits": 6,
+          "dmg": 75,
+          "overkill": 5,
+          "hitgroups": { "2": 3, "6": 3 }
+        }
+      }
+    },
+    "maps": {
+      "overall": {
+        "de_dust2": {
+          "played": 6,
+          "won": 4,
+          "rounds_for": 80,
+          "rounds_against": 76,
+          "ct_rounds_for": 41,
+          "ct_rounds_against": 34,
+          "t_rounds_for": 39,
+          "t_rounds_against": 42
+        },
+        "de_inferno": {
+          "played": 6,
+          "won": 4,
+          "rounds_for": 91,
+          "rounds_against": 84,
+          "ct_rounds_for": 43,
+          "ct_rounds_against": 41,
+          "t_rounds_for": 48,
+          "t_rounds_against": 43
+        },
+        "de_vertigo": {
+          "played": 5,
+          "won": 3,
+          "rounds_for": 75,
+          "rounds_against": 71,
+          "ct_rounds_for": 45,
+          "ct_rounds_against": 33,
+          "t_rounds_for": 30,
+          "t_rounds_against": 38
+        },
+        "de_ancient": {
+          "played": 2,
+          "won": 1,
+          "rounds_for": 24,
+          "rounds_against": 23,
+          "ct_rounds_for": 17,
+          "ct_rounds_against": 13,
+          "t_rounds_for": 7,
+          "t_rounds_against": 10
+        },
+        "de_overpass": {
+          "played": 1,
+          "won": 0,
+          "rounds_for": 10,
+          "rounds_against": 16,
+          "ct_rounds_for": 5,
+          "ct_rounds_against": 10,
+          "t_rounds_for": 5,
+          "t_rounds_against": 6
+        }
+      }
+    },
+    "past10": [
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "16:11",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 77,
+        "hs": 30,
+        "rating": 1.14,
+        "kd": 3,
+        "kpd": 1.18
+      },
+      {
+        "result": "lose",
+        "map": "de_ancient",
+        "map_crc": 3270337775,
+        "score": "8:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 61,
+        "hs": 56,
+        "rating": 0.5,
+        "kd": -11,
+        "kpd": 0.45
+      },
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "16:7",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 70,
+        "hs": 27,
+        "rating": 1.13,
+        "kd": 2,
+        "kpd": 1.15
+      },
+      {
+        "result": "lose",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "11:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 83,
+        "hs": 40,
+        "rating": 0.94,
+        "kd": 0,
+        "kpd": 1
+      },
+      {
+        "result": "lose",
+        "map": "de_overpass",
+        "map_crc": 2863184063,
+        "score": "10:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 73,
+        "hs": 35,
+        "rating": 0.97,
+        "kd": -2,
+        "kpd": 0.89
+      },
+      {
+        "result": "win",
+        "map": "de_ancient",
+        "map_crc": 3270337775,
+        "score": "16:7",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 69,
+        "hs": 20,
+        "rating": 1.19,
+        "kd": 1,
+        "kpd": 1.07
+      },
+      {
+        "result": "lose",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "16:19",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 87,
+        "hs": 40,
+        "rating": 1.28,
+        "kd": 9,
+        "kpd": 1.43
+      },
+      {
+        "result": "lose",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "10:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 67,
+        "hs": 35,
+        "rating": 0.84,
+        "kd": -4,
+        "kpd": 0.81
+      },
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "16:12",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 92,
+        "hs": 52,
+        "rating": 1.33,
+        "kd": 5,
+        "kpd": 1.28
+      },
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "19:15",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 88,
+        "hs": 50,
+        "rating": 1.36,
+        "kd": 9,
+        "kpd": 1.47
+      }
+    ],
+    "best": {
+      "rank": 0,
+      "kpd": 1.81,
+      "rating": 1.59,
+      "adr": 109,
+      "hs": 62,
+      "clutches_won": 18
+    },
+    "matches": [
+      54728993, 54815899, 54824633, 54999966, 55094634, 55094635, 55180797,
+      55180801, 55188454, 55379624, 55388389, 55442535, 55451823, 55451825,
+      55479023, 55564199, 55647040, 55654070, 56415985, 56423612
+    ],
+    "userData": {
+      "name": "Brooks",
+      "steamID": "76561198417317308",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c0/c05f56b793bbc7f390121915d0adde7125e6962e_full.jpg"
+    }
+  },
+  {
+    "overall": {
+      "wr": 63,
+      "adr": 82,
+      "hs": 37,
+      "kpd": 1.18,
+      "rating": 1.13,
+      "1v1": 60,
+      "1v2": 20,
+      "1v3": 0,
+      "1v4": 0,
+      "1v5": 0,
+      "1vX": 11,
+      "delta": {
+        "wr": 3,
+        "adr": 0,
+        "hs": 0,
+        "kpd": 0.01,
+        "rating": 0.01,
+        "1v1": 0,
+        "1v2": 0,
+        "1v3": 0,
+        "1v4": 0,
+        "1v5": 0,
+        "1vX": 0
+      }
+    },
+    "totals": {
+      "overall": {
+        "ct_rounds": 229,
+        "t_rounds": 244,
+        "adr": 82,
+        "games": 16,
+        "wins": 10,
+        "losses": 6,
+        "draws": 0,
+        "rounds": 473,
+        "HS": 134,
+        "K": 363,
+        "D": 307,
+        "A": 76,
+        "dmg": 38981,
+        "rating": 18,
+        "FK": 42,
+        "FD": 51,
+        "FK_T_SPR": 20,
+        "FD_T_SPR": 32,
+        "FK_CT_SPR": 22,
+        "FD_CT_SPR": 19,
+        "FK_T": 49,
+        "FD_T": 46,
+        "FD_T_NOKILL": 11,
+        "FK_CT": 43,
+        "FD_CT": 37,
+        "FD_CT_NOKILL": 13,
+        "1v1": 3,
+        "1v1_lost": 2,
+        "1v2": 1,
+        "1v2_lost": 4,
+        "1v3": 0,
+        "1v3_lost": 13,
+        "1v4": 0,
+        "1v4_lost": 8,
+        "1v5": 0,
+        "1v5_lost": 6,
+        "rank": 0,
+        "last": 0,
+        "delta": []
+      }
+    },
+    "rank": -1,
+    "comp_wins": -1,
+    "last": "2022-01-28 03:05:43",
+    "weapons": {
+      "overall": {
+        "flashbang": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 397,
+          "hits": 1,
+          "dmg": 1,
+          "overkill": 0,
+          "hitgroups": [1]
+        },
+        "glock": {
+          "kills": 12,
+          "headshot": 9,
+          "shots": 215,
+          "hits": 40,
+          "dmg": 1085,
+          "overkill": 431,
+          "hitgroups": { "1": 10, "2": 22, "3": 4, "5": 2, "7": 1, "8": 1 }
+        },
+        "knife": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 921,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "hegrenade": {
+          "kills": 4,
+          "headshot": 0,
+          "shots": 98,
+          "hits": 72,
+          "dmg": 1713,
+          "overkill": 38,
+          "hitgroups": [72]
+        },
+        "smokegrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 280,
+          "hits": 4,
+          "dmg": 5,
+          "overkill": 0,
+          "hitgroups": [4]
+        },
+        "galilar": {
+          "kills": 12,
+          "headshot": 5,
+          "shots": 312,
+          "hits": 54,
+          "dmg": 1369,
+          "overkill": 328,
+          "hitgroups": { "1": 5, "2": 25, "3": 15, "5": 1, "6": 5, "7": 3 }
+        },
+        "molotov": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 98,
+          "hits": 2,
+          "dmg": 2,
+          "overkill": 0,
+          "hitgroups": [2]
+        },
+        "inferno": {
+          "kills": 4,
+          "headshot": 0,
+          "shots": 0,
+          "hits": 205,
+          "dmg": 952,
+          "overkill": 14,
+          "hitgroups": [205]
+        },
+        "mp7": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 22,
+          "hits": 2,
+          "dmg": 24,
+          "overkill": 0,
+          "hitgroups": { "3": 2 }
+        },
+        "ak47": {
+          "kills": 156,
+          "headshot": 61,
+          "shots": 3235,
+          "hits": 503,
+          "dmg": 15443,
+          "overkill": 4300,
+          "hitgroups": {
+            "1": 66,
+            "2": 242,
+            "3": 102,
+            "4": 22,
+            "5": 29,
+            "6": 15,
+            "7": 22,
+            "8": 5
+          }
+        },
+        "p250": {
+          "kills": 18,
+          "headshot": 6,
+          "shots": 270,
+          "hits": 63,
+          "dmg": 1944,
+          "overkill": 422,
+          "hitgroups": {
+            "1": 12,
+            "2": 27,
+            "3": 14,
+            "4": 3,
+            "5": 2,
+            "6": 4,
+            "7": 1
+          }
+        },
+        "tec9": {
+          "kills": 8,
+          "headshot": 4,
+          "shots": 111,
+          "hits": 29,
+          "dmg": 866,
+          "overkill": 234,
+          "hitgroups": {
+            "1": 5,
+            "2": 13,
+            "3": 5,
+            "4": 1,
+            "5": 1,
+            "6": 3,
+            "7": 1
+          }
+        },
+        "hkp2000": {
+          "kills": 8,
+          "headshot": 6,
+          "shots": 196,
+          "hits": 38,
+          "dmg": 1017,
+          "overkill": 386,
+          "hitgroups": { "1": 6, "2": 20, "3": 7, "5": 1, "6": 4 }
+        },
+        "m4a1": {
+          "kills": 67,
+          "headshot": 22,
+          "shots": 1532,
+          "hits": 289,
+          "dmg": 7390,
+          "overkill": 1421,
+          "hitgroups": {
+            "1": 34,
+            "2": 137,
+            "3": 63,
+            "4": 8,
+            "5": 22,
+            "6": 14,
+            "7": 11
+          }
+        },
+        "incgrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 91,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "mac10": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 15,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "m4a1_silencer": {
+          "kills": 13,
+          "headshot": 4,
+          "shots": 222,
+          "hits": 44,
+          "dmg": 1385,
+          "overkill": 283,
+          "hitgroups": { "1": 6, "2": 25, "3": 7, "4": 2, "5": 4 }
+        },
+        "fiveseven": {
+          "kills": 9,
+          "headshot": 4,
+          "shots": 114,
+          "hits": 31,
+          "dmg": 749,
+          "overkill": 201,
+          "hitgroups": {
+            "1": 4,
+            "2": 16,
+            "3": 3,
+            "4": 1,
+            "5": 2,
+            "6": 4,
+            "7": 1
+          }
+        },
+        "mp9": {
+          "kills": 9,
+          "headshot": 3,
+          "shots": 159,
+          "hits": 43,
+          "dmg": 918,
+          "overkill": 222,
+          "hitgroups": { "1": 6, "2": 23, "3": 6, "4": 3, "5": 5 }
+        },
+        "awp": {
+          "kills": 8,
+          "headshot": 0,
+          "shots": 16,
+          "hits": 10,
+          "dmg": 831,
+          "overkill": 212,
+          "hitgroups": { "2": 5, "3": 2, "5": 2, "7": 1 }
+        },
+        "famas": {
+          "kills": 30,
+          "headshot": 10,
+          "shots": 443,
+          "hits": 115,
+          "dmg": 2902,
+          "overkill": 528,
+          "hitgroups": { "1": 18, "2": 54, "3": 20, "4": 8, "5": 15 }
+        },
+        "m249": {
+          "kills": 1,
+          "headshot": 0,
+          "shots": 26,
+          "hits": 1,
+          "dmg": 3,
+          "overkill": 22,
+          "hitgroups": { "2": 1 }
+        },
+        "cz75a": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 2,
+          "hits": 1,
+          "dmg": 18,
+          "overkill": 0,
+          "hitgroups": { "2": 1 }
+        },
+        "usp_silencer": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 9,
+          "hits": 1,
+          "dmg": 31,
+          "overkill": 0,
+          "hitgroups": { "2": 1 }
+        },
+        "deagle": {
+          "kills": 2,
+          "headshot": 0,
+          "shots": 11,
+          "hits": 4,
+          "dmg": 145,
+          "overkill": 41,
+          "hitgroups": { "2": 1, "3": 2, "5": 1 }
+        },
+        "ump45": {
+          "kills": 2,
+          "headshot": 0,
+          "shots": 33,
+          "hits": 13,
+          "dmg": 188,
+          "overkill": 18,
+          "hitgroups": { "2": 7, "3": 2, "4": 1, "5": 2, "6": 1 }
+        },
+        "mag7": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 1,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        }
+      }
+    },
+    "maps": {
+      "overall": {
+        "de_inferno": {
+          "played": 8,
+          "won": 5,
+          "rounds_for": 130,
+          "rounds_against": 117,
+          "ct_rounds_for": 60,
+          "ct_rounds_against": 61,
+          "t_rounds_for": 70,
+          "t_rounds_against": 56
+        },
+        "de_dust2": {
+          "played": 5,
+          "won": 3,
+          "rounds_for": 64,
+          "rounds_against": 69,
+          "ct_rounds_for": 31,
+          "ct_rounds_against": 29,
+          "t_rounds_for": 33,
+          "t_rounds_against": 40
+        },
+        "de_vertigo": {
+          "played": 3,
+          "won": 2,
+          "rounds_for": 48,
+          "rounds_against": 45,
+          "ct_rounds_for": 29,
+          "ct_rounds_against": 19,
+          "t_rounds_for": 19,
+          "t_rounds_against": 26
+        }
+      }
+    },
+    "past10": [
+      {
+        "result": "lose",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "9:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 93,
+        "hs": 40,
+        "rating": 1.04,
+        "kd": 2,
+        "kpd": 1.11
+      },
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "16:11",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 85,
+        "hs": 36,
+        "rating": 1.16,
+        "kd": 5,
+        "kpd": 1.29
+      },
+      {
+        "result": "win",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "16:14",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 92,
+        "hs": 48,
+        "rating": 1.42,
+        "kd": 11,
+        "kpd": 1.69
+      },
+      {
+        "result": "lose",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "4:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 60,
+        "hs": 50,
+        "rating": 0.77,
+        "kd": -5,
+        "kpd": 0.71
+      },
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "19:15",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 98,
+        "hs": 41,
+        "rating": 1.12,
+        "kd": 2,
+        "kpd": 1.08
+      },
+      {
+        "result": "lose",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "14:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 96,
+        "hs": 46,
+        "rating": 1.07,
+        "kd": 3,
+        "kpd": 1.14
+      },
+      {
+        "result": "win",
+        "map": "de_dust2",
+        "map_crc": 2291441854,
+        "score": "16:11",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 79,
+        "hs": 36,
+        "rating": 1.24,
+        "kd": 7,
+        "kpd": 1.47
+      },
+      {
+        "result": "lose",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "16:19",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 72,
+        "hs": 33,
+        "rating": 1,
+        "kd": -2,
+        "kpd": 0.91
+      },
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "16:12",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 67,
+        "hs": 43,
+        "rating": 0.95,
+        "kd": -5,
+        "kpd": 0.74
+      },
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "19:15",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 81,
+        "hs": 33,
+        "rating": 1.15,
+        "kd": 6,
+        "kpd": 1.29
+      }
+    ],
+    "best": {
+      "rank": 0,
+      "kpd": 1.88,
+      "rating": 1.69,
+      "adr": 113,
+      "hs": 50,
+      "clutches_won": 4
+    },
+    "matches": [
+      54135754, 54318581, 54318580, 54728993, 54815899, 54824633, 55094634,
+      55094635, 55180797, 55180801, 55188454, 55379624, 55388389, 55647040,
+      56415985, 56423612
+    ],
+    "userData": {
+      "name": "Nick",
+      "steamID": "76561198080106107",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/be/be8c3f9b294d67944d82af5ed87ba46dc51af471_full.jpg"
+    }
+  },
+  {
+    "overall": {
+      "wr": 29,
+      "adr": 82,
+      "hs": 41,
+      "kpd": 1.1,
+      "rating": 1.1,
+      "1v1": 100,
+      "1v2": 50,
+      "1v3": 0,
+      "1v4": 0,
+      "1v5": 0,
+      "1vX": 25,
+      "delta": {
+        "wr": -4,
+        "adr": -1,
+        "hs": 2,
+        "kpd": -0.06,
+        "rating": -0.04,
+        "1v1": 0,
+        "1v2": 0,
+        "1v3": 0,
+        "1v4": 0,
+        "1v5": 0,
+        "1vX": -4
+      }
+    },
+    "totals": {
+      "overall": {
+        "ct_rounds": 107,
+        "t_rounds": 105,
+        "adr": 82,
+        "games": 7,
+        "wins": 2,
+        "losses": 5,
+        "draws": 0,
+        "rounds": 212,
+        "HS": 64,
+        "K": 157,
+        "D": 143,
+        "A": 31,
+        "dmg": 16993,
+        "rating": 7.67,
+        "FK": 24,
+        "FD": 19,
+        "FK_T_SPR": 11,
+        "FD_T_SPR": 10,
+        "FK_CT_SPR": 13,
+        "FD_CT_SPR": 9,
+        "FK_T": 20,
+        "FD_T": 17,
+        "FD_T_NOKILL": 6,
+        "FK_CT": 23,
+        "FD_CT": 17,
+        "FD_CT_NOKILL": 6,
+        "1v1": 2,
+        "1v1_lost": 0,
+        "1v2": 2,
+        "1v2_lost": 2,
+        "1v3": 0,
+        "1v3_lost": 6,
+        "1v4": 0,
+        "1v4_lost": 3,
+        "1v5": 0,
+        "1v5_lost": 1,
+        "rank": 0,
+        "last": 0,
+        "delta": []
+      }
+    },
+    "rank": -1,
+    "comp_wins": -1,
+    "last": "2022-01-20 02:59:04",
+    "weapons": {
+      "overall": {
+        "flashbang": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 73,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "glock": {
+          "kills": 7,
+          "headshot": 7,
+          "shots": 178,
+          "hits": 19,
+          "dmg": 747,
+          "overkill": 178,
+          "hitgroups": { "1": 9, "2": 9, "5": 1 }
+        },
+        "knife": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 310,
+          "hits": 1,
+          "dmg": 55,
+          "overkill": 0,
+          "hitgroups": [1]
+        },
+        "smokegrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 76,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "mac10": {
+          "kills": 4,
+          "headshot": 1,
+          "shots": 217,
+          "hits": 26,
+          "dmg": 460,
+          "overkill": 99,
+          "hitgroups": { "1": 1, "2": 11, "3": 5, "4": 1, "5": 6, "6": 2 }
+        },
+        "m4a1_silencer": {
+          "kills": 36,
+          "headshot": 11,
+          "shots": 517,
+          "hits": 135,
+          "dmg": 3997,
+          "overkill": 988,
+          "hitgroups": {
+            "1": 22,
+            "2": 66,
+            "3": 30,
+            "4": 3,
+            "5": 10,
+            "6": 1,
+            "7": 3
+          }
+        },
+        "hegrenade": {
+          "kills": 1,
+          "headshot": 0,
+          "shots": 4,
+          "hits": 3,
+          "dmg": 51,
+          "overkill": 26,
+          "hitgroups": [3]
+        },
+        "ak47": {
+          "kills": 41,
+          "headshot": 21,
+          "shots": 1040,
+          "hits": 150,
+          "dmg": 4709,
+          "overkill": 1309,
+          "hitgroups": {
+            "1": 22,
+            "2": 73,
+            "3": 29,
+            "4": 2,
+            "5": 13,
+            "6": 7,
+            "7": 3,
+            "8": 1
+          }
+        },
+        "molotov": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 23,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "cz75a": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 1,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "awp": {
+          "kills": 30,
+          "headshot": 3,
+          "shots": 83,
+          "hits": 34,
+          "dmg": 2599,
+          "overkill": 2008,
+          "hitgroups": {
+            "1": 3,
+            "2": 12,
+            "3": 12,
+            "4": 2,
+            "5": 1,
+            "6": 3,
+            "7": 1
+          }
+        },
+        "inferno": {
+          "kills": 1,
+          "headshot": 0,
+          "shots": 0,
+          "hits": 90,
+          "dmg": 445,
+          "overkill": 1,
+          "hitgroups": [90]
+        },
+        "deagle": {
+          "kills": 12,
+          "headshot": 9,
+          "shots": 102,
+          "hits": 32,
+          "dmg": 1404,
+          "overkill": 835,
+          "hitgroups": { "1": 9, "2": 11, "3": 9, "5": 3 }
+        },
+        "m4a1": {
+          "kills": 12,
+          "headshot": 5,
+          "shots": 162,
+          "hits": 38,
+          "dmg": 1001,
+          "overkill": 214,
+          "hitgroups": { "1": 5, "2": 19, "3": 5, "4": 2, "5": 7 }
+        },
+        "usp_silencer": {
+          "kills": 5,
+          "headshot": 3,
+          "shots": 108,
+          "hits": 23,
+          "dmg": 593,
+          "overkill": 145,
+          "hitgroups": { "1": 4, "2": 14, "3": 5 }
+        },
+        "p250": {
+          "kills": 2,
+          "headshot": 1,
+          "shots": 37,
+          "hits": 9,
+          "dmg": 201,
+          "overkill": 32,
+          "hitgroups": { "1": 1, "2": 7, "3": 1 }
+        },
+        "incgrenade": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 32,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "ump45": {
+          "kills": 3,
+          "headshot": 2,
+          "shots": 74,
+          "hits": 10,
+          "dmg": 292,
+          "overkill": 122,
+          "hitgroups": { "1": 2, "2": 4, "3": 3, "5": 1 }
+        },
+        "fiveseven": {
+          "kills": 1,
+          "headshot": 0,
+          "shots": 20,
+          "hits": 3,
+          "dmg": 77,
+          "overkill": 7,
+          "hitgroups": { "3": 2, "5": 1 }
+        },
+        "mp7": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 5,
+          "hits": 0,
+          "dmg": 0,
+          "overkill": 0,
+          "hitgroups": []
+        },
+        "": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 0,
+          "hits": 1,
+          "dmg": 27,
+          "overkill": 0,
+          "hitgroups": { "4": 1 }
+        },
+        "elite": {
+          "kills": 1,
+          "headshot": 0,
+          "shots": 12,
+          "hits": 4,
+          "dmg": 112,
+          "overkill": 11,
+          "hitgroups": { "1": 1, "2": 2, "5": 1 }
+        },
+        "aug": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 7,
+          "hits": 1,
+          "dmg": 98,
+          "overkill": 0,
+          "hitgroups": { "1": 1 }
+        },
+        "mp9": {
+          "kills": 0,
+          "headshot": 0,
+          "shots": 17,
+          "hits": 3,
+          "dmg": 79,
+          "overkill": 0,
+          "hitgroups": { "1": 1, "2": 2 }
+        },
+        "famas": {
+          "kills": 1,
+          "headshot": 1,
+          "shots": 8,
+          "hits": 1,
+          "dmg": 46,
+          "overkill": 65,
+          "hitgroups": { "1": 1 }
+        }
+      }
+    },
+    "maps": {
+      "overall": {
+        "de_inferno": {
+          "played": 5,
+          "won": 1,
+          "rounds_for": 73,
+          "rounds_against": 81,
+          "ct_rounds_for": 37,
+          "ct_rounds_against": 37,
+          "t_rounds_for": 36,
+          "t_rounds_against": 44
+        },
+        "de_ancient": {
+          "played": 1,
+          "won": 1,
+          "rounds_for": 16,
+          "rounds_against": 7,
+          "ct_rounds_for": 11,
+          "ct_rounds_against": 4,
+          "t_rounds_for": 5,
+          "t_rounds_against": 3
+        },
+        "de_vertigo": {
+          "played": 1,
+          "won": 0,
+          "rounds_for": 16,
+          "rounds_against": 19,
+          "ct_rounds_for": 9,
+          "ct_rounds_against": 9,
+          "t_rounds_for": 7,
+          "t_rounds_against": 10
+        }
+      }
+    },
+    "past10": [
+      {
+        "result": "win",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "16:11",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 67,
+        "hs": 50,
+        "rating": 1.08,
+        "kd": 2,
+        "kpd": 1.11
+      },
+      {
+        "result": "lose",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "17:19",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 90,
+        "hs": 25,
+        "rating": 1.15,
+        "kd": 5,
+        "kpd": 1.22
+      },
+      {
+        "result": "lose",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "16:19",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 73,
+        "hs": 41,
+        "rating": 0.89,
+        "kd": -1,
+        "kpd": 0.96
+      },
+      {
+        "result": "lose",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "14:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 72,
+        "hs": 47,
+        "rating": 0.93,
+        "kd": 0,
+        "kpd": 1
+      },
+      {
+        "result": "win",
+        "map": "de_ancient",
+        "map_crc": 3270337775,
+        "score": "16:7",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 129,
+        "hs": 29,
+        "rating": 1.91,
+        "kd": 18,
+        "kpd": 2.38
+      },
+      {
+        "result": "lose",
+        "map": "de_vertigo",
+        "map_crc": 2950052990,
+        "score": "16:19",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 67,
+        "hs": 50,
+        "rating": 0.86,
+        "kd": -5,
+        "kpd": 0.8
+      },
+      {
+        "result": "lose",
+        "map": "de_inferno",
+        "map_crc": 1591993918,
+        "score": "10:16",
+        "rank": 0,
+        "rank_up": 0,
+        "adr": 74,
+        "hs": 59,
+        "rating": 0.85,
+        "kd": -5,
+        "kpd": 0.77
+      }
+    ],
+    "best": {
+      "rank": 0,
+      "kpd": 2.38,
+      "rating": 1.91,
+      "adr": 129,
+      "hs": 59,
+      "clutches_won": 4
+    },
+    "matches": [
+      54135754, 54318581, 54318580, 55379624, 55564199, 55647040, 55654070
+    ],
+    "userData": {
+      "name": "Brendan",
+      "steamID": "76561198105247665",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c3/c3c15687d9aca8d470e08bcb7cf8d0f713e72730_full.jpg"
+    }
+  }
+]

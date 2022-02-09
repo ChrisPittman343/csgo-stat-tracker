@@ -1,0 +1,44 @@
+{
+  "players": [
+    {
+      "name": "Chris",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/83/83e183313d35fe199a18df5d426ab140e32fba9c_full.jpg",
+      "steamID": "76561198098251756"
+    },
+    {
+      "name": "Noah",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fc/fc19ee32a46c2d330cf2ee4b6447dfd5537baee7_full.jpg",
+      "steamID": "76561198165491524"
+    },
+    {
+      "name": "Alex",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2e/2e794df17519de1aa73a283ed7c2a0fab975a5c8_full.jpg",
+      "steamID": "76561198158571788"
+    },
+    {
+      "name": "Brooks",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c0/c05f56b793bbc7f390121915d0adde7125e6962e_full.jpg",
+      "steamID": "76561198417317308"
+    },
+    {
+      "name": "Nick",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/be/be8c3f9b294d67944d82af5ed87ba46dc51af471_full.jpg",
+      "steamID": "76561198080106107"
+    },
+    {
+      "name": "Brendan",
+      "photoURL": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c3/c3c15687d9aca8d470e08bcb7cf8d0f713e72730_full.jpg",
+      "steamID": "76561198105247665"
+    }
+  ],
+  "matches": [
+    {
+      "mapName": "Inferno",
+      "mapPhotoURL": "https://cdn.akamai.steamstatic.com/apps/csgo/images/inferno/mid1-2.jpg?v=1",
+      "isWin": true,
+      "finalScore": "16-12",
+      "played": 1644252594,
+      "stack": ["Chris", "Noah", "Brooks"]
+    }
+  ]
+}
